@@ -1,0 +1,104 @@
+{
+  "locations": [
+    {
+      "id": "1",
+      "name": "Sunny Apartments",
+      "city": "San Francisco",
+      "state": "CA",
+      "photo": "https://images.unsplash.com/photo-1568605114967-8130f3a36994",
+      "availableUnits": 5,
+      "wifi": true,
+      "laundry": false
+    },
+    {
+      "id": "2",
+      "name": "Cozy Condo",
+      "city": "New York",
+      "state": "NY",
+      "photo": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914",
+      "availableUnits": 3,
+      "wifi": true,
+      "laundry": true
+    },
+    {
+      "id": "3",
+      "name": "Modern Loft",
+      "city": "Los Angeles",
+      "state": "CA",
+      "photo": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+      "availableUnits": 2,
+      "wifi": false,
+      "laundry": true
+    },
+    {
+      "id": "4",
+      "name": "Urban Flat",
+      "city": "Chicago",
+      "state": "IL",
+      "photo": "https://images.unsplash.com/photo-1570129477492-45c003edd2be",
+      "availableUnits": 4,
+      "wifi": true,
+      "laundry": false
+    },
+    {
+      "id": "5",
+      "name": "Luxury Suite",
+      "city": "Miami",
+      "state": "FL",
+      "photo": "https://images.unsplash.com/photo-1588628566587-dbd2b6e8e1b5",
+      "availableUnits": 1,
+      "wifi": true,
+      "laundry": true
+    },
+    {
+      "id": "6",
+      "name": "Vintage House",
+      "city": "Austin",
+      "state": "TX",
+      "photo": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+      "availableUnits": 6,
+      "wifi": false,
+      "laundry": false
+    },
+    {
+      "id": "7",
+      "name": "Downtown Studio",
+      "city": "Seattle",
+      "state": "WA",
+      "photo": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "availableUnits": 2,
+      "wifi": true,
+      "laundry": true
+    },
+    {
+      "id": "8",
+      "name": "Suburban Home",
+      "city": "Denver",
+      "state": "CO",
+      "photo": "https://images.unsplash.com/photo-1600585154785-6d28f8d429d6",
+      "availableUnits": 8,
+      "wifi": false,
+      "laundry": true
+    },
+    {
+      "id": "9",
+      "name": "Beachfront Villa",
+      "city": "San Diego",
+      "state": "CA",
+      "photo": "https://images.unsplash.com/photo-1552320912-419bfa6fffea",
+      "availableUnits": 3,
+      "wifi": true,
+      "laundry": false
+    },
+    {
+      "id": "10",
+      "name": "Mountain Cabin",
+      "city": "Aspen",
+      "state": "CO",
+      "photo": "https://images.unsplash.com/photo-1552903026-1c53eafc87a1",
+      "availableUnits": 1,
+      "wifi": false,
+      "laundry": true
+    }
+  ]
+}
